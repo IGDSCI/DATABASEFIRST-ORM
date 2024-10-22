@@ -12,6 +12,7 @@ Neste projeto, utilizamos as seguintes tecnologias:
 
 O data base first foi realizada com o Astah. O ORM (Object-Relational Mapping) foi implementado em JavaScript, facilitando a interação com o banco de dados SQLite.
 Necessário ter o node_modules para funcionar a aplicação do ORM
+**Importante:** Para visualizar as tabelas criadas pelo ORM, é necessário baixar a extensão **SQLite Viewer** no Visual Studio Code.
 
 ### Funcionalidades
 

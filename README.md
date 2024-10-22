@@ -10,7 +10,7 @@ Neste projeto, utilizamos as seguintes tecnologias:
 
 ## Estrutura do Banco de Dados
 
-A modelagem do banco de dados foi realizada com o Astah. O ORM (Object-Relational Mapping) foi implementado em JavaScript, facilitando a interação com o banco de dados SQLite.
+O data base first foi realizada com o Astah. O ORM (Object-Relational Mapping) foi implementado em JavaScript, facilitando a interação com o banco de dados SQLite.
 Necessário ter o node_modules para funcionar a aplicação do ORM
 
 ### Funcionalidades
